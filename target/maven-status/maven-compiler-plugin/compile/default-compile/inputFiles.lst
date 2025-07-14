@@ -1,0 +1,10 @@
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\Main.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\model\Category.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\model\Item.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\model\Receipt.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\service\InputParser.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\service\ReceiptPrinter.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\service\TaxCalculator.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\tax\BasicSalesTaxRule.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\tax\ImportDutyTaxRule.java
+D:\Y-Forage\Sales\src\main\java\com\example\salestax\tax\TaxRule.java
